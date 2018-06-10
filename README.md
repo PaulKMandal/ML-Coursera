@@ -6,19 +6,15 @@ ex1 - Linear regression
 
 ex2 - Logistic regression
 
-ex3 - All vs one Logistic regression for recognizing handwritten numbers from the MINST dataset.
-
-      Feedfoward part of a Neural Network
+ex3 - All vs one Logistic regression for recognizing handwritten numbers from the MINST dataset, feedfoward part of a Neural Network.
       
-ex4 - Neural Network to recognize handwritten numbers from the MINST dataset.
+ex4 - Neural Network to recognize handwritten numbers from the MINST dataset
 
 ex5 - Bias-Variance properties
 
 ex6 - Support Vector Machine for email spam classification
 
-ex7 - K-means for image compression
-
-      Principle Component Analysis for faces
+ex7 - K-means for image compression, principle Component Analysis for faces
       
 ex8 - Gaussian Anomoly Detection for server failures
 
