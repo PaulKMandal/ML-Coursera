@@ -16,5 +16,5 @@ ex6 - Support Vector Machine for email spam classification
 
 ex7 - K-means for image compression, principle Component Analysis for faces
       
-ex8 - Gaussian Anomoly Detection for server failures
+ex8 - Gaussian Anomaly Detection for server failures
 
